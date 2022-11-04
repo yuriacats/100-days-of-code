@@ -5,6 +5,7 @@ The log of my #100DaysOfCode challenge. Started on [November 2, Wendsday, 2022].
 ## Log
 
 ### R1D1 
+２０２２/11/2
 23:45 - 0:45
 yamanote_wasuremon_node のリファクタリング（DocStringの記載等）
 
@@ -17,6 +18,7 @@ yamanote_wasuremon_node のリファクタリング（DocStringの記載等）
  で定義されているらしい。
  
 ### R1D2
+2022/11/3
 19:15 - 20:40
 21:00 - 21:23
 1. railwayのJavascript部分をすすめた
@@ -24,4 +26,13 @@ yamanote_wasuremon_node のリファクタリング（DocStringの記載等）
 
 スプレッド構文は初めて使ったがとても便利な構文だなということを感じた。
 setTimeout関数はなるほどーとなったが原理的に説明できない部分も多くあるので説明できる様な理解にしていきたい。
+
 ### R1D3
+2022/11/4
+20:04 - 20:49
+23:09 - 0:41
+1.railwayのReactをすすめた。
+
+感想：　基本的に前半、知っているがいい復習になる。時々手ぐせだけだとかけないもどかしさがまた、私の実力まだまだなんだなということを感じさせるいい教材。
+
+### R1D4
