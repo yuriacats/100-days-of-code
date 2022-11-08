@@ -5,7 +5,8 @@ The log of my #100DaysOfCode challenge. Started on [November 2, Wendsday, 2022].
 ## Log
 
 ### R1D1 
-２０２２/11/2
+2022/11/2
+
 23:45 - 0:45
 yamanote_wasuremon_node のリファクタリング（DocStringの記載等）
 
@@ -61,7 +62,16 @@ Cron的なもの（定時実行）の方法も検討した方がいい。
 
 ### R1D7
 2022/11/8
-23:00 - 23:25
+22:45 - 
 
 1. Reactの導入
-2. 
+2. json-serverの開発環境への導入
+
+[json-serverの導入方法](https://qiita.com/roana0229/items/547437b6314fd283ddca)
+json-serverは最初が必ず以下で始めないといけないという癖を見極められず少し苦戦をした
+
+
+```
+”エンドポイント”：{
+object}
+```
