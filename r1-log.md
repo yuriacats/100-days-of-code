@@ -62,16 +62,22 @@ Cron的なもの（定時実行）の方法も検討した方がいい。
 
 ### R1D7
 2022/11/8
-22:45 - 
+22:45 - 23:45
 
 1. Reactの導入
 2. json-serverの開発環境への導入
 
+フロントエンドでテストを初めて書いてみようとしたがテストコードが回る状態にはなっていないのでRailwayを参考にしつつその状態まで持っていく。
+[create-react-app
+](https://create-react-app.dev/docs/running-tests/)にドキュメントが載っているので読む。
+
 [json-serverの導入方法](https://qiita.com/roana0229/items/547437b6314fd283ddca)
 json-serverは最初が必ず以下で始めないといけないという癖を見極められず少し苦戦をした
 
-
 ```
+{
 ”エンドポイント”：{
-object}
+さまざまな中の要素
+}
+}
 ```
