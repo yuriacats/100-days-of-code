@@ -89,4 +89,18 @@ json-serverは最初が必ず以下で始めないといけないという癖を
 
 1. Reactで.envを使う方法を調べて.envからURLをとるような形にした。
 
-1. 
+### R1D9
+2022/11/10
+19:30 - 21:00
+フロントエンドの整理とComponentJSのとりかた。
+コードレビューをもらうための支度。
+
+### R1D10
+2022/11/11
+22:55 - 23:55
+テストライブラリーを導入しテストを記述した。
+[rewire](https://github.com/jhnns/rewire/blob/master/lib/rewire.js)というライブラリーが便利そうなので利用
+
+JestとReact-testing-libralyの違いの比較をしていきたい。記法に違いがあるなら興味深いので。
+
+### R1D11
