@@ -6,7 +6,6 @@ The log of my #100DaysOfCode challenge. Started on [November 2, Wendsday, 2022].
 
 ### R1D1 
 2022/11/2
-
 23:45 - 0:45
 yamanote_wasuremon_node のリファクタリング（DocStringの記載等）
 
@@ -110,4 +109,13 @@ JestとReact-testing-libralyの違いの比較をしていきたい。記法に�
 atCoderをやった。
 https://atcoder.jp/contests/abc277/submissions/36421744
 https://atcoder.jp/contests/abc277/submissions/36433650
+
 ### R1D12
+2022/11/13
+14:55 - 15:20
+やったこと
+1. voltaのインストール。
+https://docs.volta.sh/guide/getting-started
+
+
+### R1D13
