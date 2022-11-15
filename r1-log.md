@@ -120,3 +120,7 @@ https://docs.volta.sh/guide/getting-started
 2. テストコードを書いた。
 
 ### R1D13
+22:15-23:05
+
+Windowsのセットアップ
+テストコードのテストロジックの修正
