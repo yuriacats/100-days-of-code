@@ -171,3 +171,10 @@ AWSへのデプロイコードの設定等
 atcoder_helperのコードレビュー
 yamanote_wasuremonno_nodeのデプロイコードの編集
 
+### R1D22
+2022/11/24
+22:00 - 23:30
+yamanote_wasuremono_frontにTailwindCSSの導入
+
+### R1D23
+
