@@ -177,4 +177,10 @@ yamanote_wasuremonno_nodeのデプロイコードの編集
 yamanote_wasuremono_frontにTailwindCSSの導入
 
 ### R1D23
+2022/11/26
+21:00-22:20
+AtCoder に参加する。
+
+### R1D24
+2022/11/2７
 
