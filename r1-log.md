@@ -183,4 +183,10 @@ AtCoder に参加する。
 
 ### R1D24
 2022/11/2７
+18:00-19:00
+yamanote_wasuremono_front の改修（ReactのRutor部分の検討）
 
+### R1D25
+2022/11/28
+20:00-21:00
+FinchのインストールとDevContainerで使えないかの試行
