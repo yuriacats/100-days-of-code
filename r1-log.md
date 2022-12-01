@@ -190,3 +190,13 @@ yamanote_wasuremono_front の改修（ReactのRutor部分の検討）
 2022/11/28
 20:00-21:00
 FinchのインストールとDevContainerで使えないかの試行
+
+### R1D26
+2022/11/29
+20:00-21:00
+RustでDiscordBot
+
+### R1D27
+2022/11/30
+21:00-23:00
+ECSなどのAmazonの設定
